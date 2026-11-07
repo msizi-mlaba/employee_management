@@ -1,0 +1,28 @@
+{
+  "name": "employee_management",
+  "version": "1.0.0",
+  "description": "server side application with mongodb",
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "employees"
+  ],
+  "homepage": "https://github.com/msizi-mlaba/employee_management#readme",
+  "bugs": {
+    "url": "https://github.com/msizi-mlaba/employee_management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msizi-mlaba/employee_management.git"
+  },
+  "license": "ISC",
+  "author": "Msizi Mlaba",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^9.12.0"
+  }
+}
